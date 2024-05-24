@@ -1,0 +1,9 @@
+app:
+  host: localhost
+  port: 8001
+  
+mysql:
+  host: 127.0.0.1:3306
+  username: root
+  password: 
+  databasename: attendance
